@@ -1,6 +1,6 @@
 ### Olá eu sou Lmdfps 👋
 - 🌱 Atualmente estou aprendendo ...
-- 🔭 Hoje estou estudando com html css nodejs
+- 🔭 Hoje estou estudando HTML CSS NodeJs e python
 <!--
 **a43e/a43e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

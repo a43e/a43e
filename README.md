@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a43e&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-
+![Snake animation](https://github.com/a43e/a43e/blob/output/github-contribution-grid-snake.svg)
   
 
   ## Tecnologias que eu uso no meu dia
